@@ -1,5 +1,5 @@
 {
-  "name": "xiaklizrum/smspilot-client",
+  "name": "demetrio/smspilot-client",
   "description": "Client for SMSPilot API",
   "license": "Apache-2.0",
   "require": {
